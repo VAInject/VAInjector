@@ -15,7 +15,7 @@ Or just follow [KiloByteNight's Youtube Video.](https://www.youtube.com/watch?v=
 
 ## How to use VAInjector?
 
-To use VAInjector or to download mods and play them you first need to download the installer jar from the [releases tab.](https://github.com/VAInject/VAInjector)
+To use VAInjector or to download mods and play them you first need to download the installer jar from the [releases tab.](https://github.com/VAInject/VAInjector/releases/)
 
 Once you have downloaded the installer jar place it anywhere and run the installer.
 
